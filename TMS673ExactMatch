@@ -1,0 +1,55 @@
+{
+  "id": "9090",
+  "href": "https://host:port/location/geographicAddress/9090",
+  "streetNr": "225",
+  "streetNrSuffix": "B",
+  "streetNrLast": "",
+  "streetNrLastSuffix": "",
+  "streetName": " Strathmore",
+  "streetType": "Terrace",
+  "streetSuffix": "",
+  "postcode": "5004",
+  "locality": "Brighton.",
+  "city": "Brighton",
+  "stateOrProvince": "SA",
+  "country": "Australia",
+  "@type": "UrbanPropertyAddress ",
+  "geographicLocationRefOrValue": [
+    {
+      "id": "3251",
+      "href": "https://host:port/location/geographicLocation/3251"
+    },
+    {
+      "id": "4164",
+      "href": "https://host:port/location/geographicLocation/4164",
+      "name": "ExactPlace",
+      "geometryType": "point",
+      "accuracy": "",
+      "spatialRef": "WGS84",
+      "@type": "GeographicLocation",
+      "geometry": [
+        {
+          "x": " 1.430937",
+          "y": " 43.597208",
+          "z": ""
+        }
+      ]
+    }
+  ],
+  "geographicSubAddress": [
+    {
+      "id": "3833",
+      "href": "https://host:port/location/geographicSubAddress/3833",
+      "type": "SubUnit",
+      "name": "Flat 39",
+      "subUnitType": "flat",
+      "subUnitNumber": "39",
+      "levelType": "floor",
+      "levelNumber": "3",
+      "buildingName": "Jean Pontus Building",
+      "privateStreetNumber": "",
+      "privateStreetName": "",
+      "@type": "GeographicSubAddress"
+    }
+  ]
+}
