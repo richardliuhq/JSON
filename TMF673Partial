@@ -1,0 +1,70 @@
+{
+  "id": "8315",
+  "href": "https://host:port/location/geographicAddressValidation/8315",
+  "status": "done",
+  "validationDate": "2017-05-03T00:00",
+  "validationResult": "partial.",
+  "provideAlternative": true,
+  "@type": "UrbanPropertyValidationAddress ",
+  "validAddress": {
+    "id": "",
+    "href": "",
+    "streetNr": "56",
+    "streetNrSuffix": "",
+    "streetNrLast": ".",
+    "streetNrLastSuffix": "",
+    "streetName": "Pontus",
+    "streetType": "Alley",
+    "streetSuffix": "Doctor",
+    "postcode": "45002",
+    "locality": " San Pedro ",
+    "city": " San Pedro ",
+    "stateOrProvince": "",
+    "country": "Ivory Coast",
+    "@type": "UrbanPropertyAddress "
+  },
+  "alternateGeographicAddress": [
+    {
+      "id": "9912",
+      "href": "https://host:port/location/geographicAddress/9912",
+      "streetNr": "56",
+      "streetNrSuffix": "A",
+      "streetNrLast": "",
+      "streetNrLastSuffix": ".",
+      "streetName": "Pontus",
+      "streetType": "Alley",
+      "streetSuffix": "",
+      "postcode": "45002",
+      "locality": "San Pedro",
+      "city": " San Pedro.",
+      "stateOrProvince": "",
+      "country": "Ivory Coast",
+      "@type": "UrbanPropertyAddress ",
+      "geographicLocationRefOrValue": {
+        "id": "9597",
+        "href": "https://host:port/location/geographicLocation/9597"
+      }
+    },
+    {
+      "id": "9998",
+      "href": "https://host:port/location/geographicAddress/9998",
+      "streetNr": "56",
+      "streetNrSuffix": "B",
+      "streetNrLast": "",
+      "streetNrLastSuffix": ".",
+      "streetName": "Pontus",
+      "streetType": "Alley",
+      "streetSuffix": "Doctor",
+      "postcode": "45002",
+      "locality": "San Pedro",
+      "city": " San Pedro.",
+      "stateOrProvince": "",
+      "country": "Ivory Coast",
+      "@type": "UrbanPropertyAddress ",
+      "geographicLocationRefOrValue": {
+        "id": "9200",
+        "href": "https://host:port/location/geographicLocation/9200"
+      }
+    }
+  ]
+}
