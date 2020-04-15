@@ -1,0 +1,274 @@
+{
+  "id": "123",
+  "href": "href",
+  "status": "success",
+  "validationDate": "2020-04-14T18:44:52.824Z",
+  "validationResult": "success",
+  "totalAddressCount": 200,
+  "totalAddressReturned": 1,
+  "addressList": [
+    {
+      "streetNumber": "220",
+      "streetNumberSuffix": "99",
+      "streetNumberLast": "",
+      "streetNumberRangeType": "",
+      "streetName": "Young",
+      "streetType": "ST",
+      "streetDirection": "S",
+      "postalcode": "M2J3T9",
+      "zipCode": "",
+      "city": "Toronto",
+      "provinceOrState": "ON",
+      "country": "CANADA",
+      "subAddressDetails": [
+        {
+          "id": "",
+          "href": "",
+          "type": "",
+          "name": "",
+          "unitType": "APT",
+          "unitNumber": "101",
+          "levelType": "APP",
+          "levelNumber": "9",
+          "buildingName": "",
+          "subAddressCharacteristic": [
+            {
+              "name": "SAID",
+              "value": "002404460"
+            }
+          ]
+        },
+        {
+          "id": "",
+          "href": "",
+          "type": "",
+          "name": "",
+          "unitType": "APT",
+          "unitNumber": "102",
+          "levelType": "APP",
+          "levelNumber": "9",
+          "buildingName": "",
+          "subAddressCharacteristic": [
+            {
+              "name": "SAID",
+              "value": "002404461"
+            }
+          ]
+        },
+        {
+          "id": "",
+          "href": "",
+          "type": "",
+          "name": "",
+          "unitType": "APT",
+          "unitNumber": "103",
+          "levelType": "APP",
+          "levelNumber": "9",
+          "buildingName": "",
+          "subAddressCharacteristic": [
+            {
+              "name": "SAID",
+              "value": "002404462"
+            }
+          ]
+        },
+        {
+          "id": "",
+          "href": "",
+          "type": "",
+          "name": "",
+          "unitType": "APT",
+          "unitNumber": "104",
+          "levelType": "APP",
+          "levelNumber": "9",
+          "buildingName": "",
+          "subAddressCharacteristic": [
+            {
+              "name": "SAID",
+              "value": "002404492"
+            }
+          ]
+        },
+        {
+          "id": "",
+          "href": "",
+          "type": "",
+          "name": "",
+          "unitType": "APT",
+          "unitNumber": "109",
+          "levelType": "APP",
+          "levelNumber": "9",
+          "buildingName": "",
+          "subAddressCharacteristic": [
+            {
+              "name": "SAID",
+              "value": "006192687"
+            }
+          ]
+        },
+        {
+          "id": "",
+          "href": "",
+          "type": "",
+          "name": "",
+          "unitType": "APT",
+          "unitNumber": "109",
+          "levelType": "APP",
+          "levelNumber": "9",
+          "buildingName": "",
+          "subAddressCharacteristic": [
+            {
+              "name": "SAID",
+              "value": "006192687"
+            }
+          ]
+        },
+        {
+          "id": "",
+          "href": "",
+          "type": "",
+          "name": "",
+          "unitType": "APT",
+          "unitNumber": "109",
+          "levelType": "APP",
+          "levelNumber": "9",
+          "buildingName": "",
+          "subAddressCharacteristic": [
+            {
+              "name": "SAID",
+              "value": "006192687"
+            }
+          ]
+        },
+        {
+          "id": "",
+          "href": "",
+          "type": "",
+          "name": "",
+          "unitType": "APT",
+          "unitNumber": "109",
+          "levelType": "APP",
+          "levelNumber": "9",
+          "buildingName": "",
+          "subAddressCharacteristic": [
+            {
+              "name": "SAID",
+              "value": "006192687"
+            }
+          ]
+        },
+        {
+          "id": "",
+          "href": "",
+          "type": "",
+          "name": "",
+          "unitType": "APT",
+          "unitNumber": "109",
+          "levelType": "APP",
+          "levelNumber": "9",
+          "buildingName": "",
+          "subAddressCharacteristic": [
+            {
+              "name": "SAID",
+              "value": "006192687"
+            }
+          ]
+        },
+        {
+          "id": "",
+          "href": "",
+          "type": "",
+          "name": "",
+          "unitType": "APT",
+          "unitNumber": "109",
+          "levelType": "APP",
+          "levelNumber": "9",
+          "buildingName": "",
+          "subAddressCharacteristic": [
+            {
+              "name": "SAID",
+              "value": "006192687"
+            }
+          ]
+        }
+      ],
+      "geoLocationInfo": {
+        "id": "string",
+        "href": "string",
+        "name": "string",
+        "geometryType": "string",
+        "accuracy": "string",
+        "spatialRef": "string",
+        "geometry": [
+          {
+            "x": "43.6532",
+            "y": "79.3832",
+            "z": "79.3832"
+          }
+        ]
+      },
+      "addressCharacteristic": [
+        {
+          "name": "SAID",
+          "value": "006192687"
+        }
+      ]
+    }
+  ],
+  "alternateAddressList": [
+    {
+      "streetNumber": "string",
+      "streetNumberSuffix": "string",
+      "streetNumberLast": "string",
+      "streetNumberRangeType": "string",
+      "streetName": "string",
+      "streetType": "string",
+      "streetDirection": "string",
+      "postalcode": "string",
+      "zipCode": "string",
+      "city": "string",
+      "provinceOrState": "string",
+      "country": "string",
+      "subAddressDetails": [
+        {
+          "id": "string",
+          "href": "string",
+          "type": "string",
+          "name": "string",
+          "unitType": "string",
+          "unitNumber": "string",
+          "levelType": "string",
+          "levelNumber": "string",
+          "buildingName": "string",
+          "subAddressCharacteristic": [
+            {
+              "name": "string",
+              "value": "string"
+            }
+          ]
+        }
+      ],
+      "geoLocationInfo": {
+        "id": "string",
+        "href": "string",
+        "name": "string",
+        "geometryType": "string",
+        "accuracy": "string",
+        "spatialRef": "string",
+        "geometry": [
+          {
+            "x": "string",
+            "y": "string",
+            "z": "string"
+          }
+        ]
+      },
+      "addressCharacteristic": [
+        {
+          "name": "string",
+          "value": "string"
+        }
+      ]
+    }
+  ]
+}
