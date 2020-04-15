@@ -1,0 +1,191 @@
+{
+	"id": "123",
+	"href": "href",
+	"status": "partial",
+	"validationDate": "2020-04-14T18:44:52.824Z",
+	"validationResult": "success",
+	"totalAddressCount": 200,
+	"totalAddressReturned": 1,
+	"addressList": [{
+		"streetNumber": "220",
+		"streetNumberSuffix": "99",
+		"streetNumberLast": "",
+		"streetNumberRangeType": "",
+		"streetName": "Young",
+		"streetType": "ST",
+		"streetDirection": "S",
+		"postalcode": "M2J3T9",
+		"zipCode": "",
+		"city": "Toronto",
+		"provinceOrState": "ON",
+		"country": "CANADA",
+		"subAddressDetails": [{
+			"id": "",
+			"href": "",
+			"type": "",
+			"name": "",
+			"unitType": "APT",
+			"unitNumber": "109",
+			"levelType": "APP",
+			"levelNumber": "9",
+			"buildingName": "",
+			"subAddressCharacteristic": [{
+				"name": "SAID",
+				"value": "006461489"
+			}]
+		}],
+		"geoLocationInfo": {
+			"id": "string",
+			"href": "string",
+			"name": "string",
+			"geometryType": "string",
+			"accuracy": "string",
+			"spatialRef": "string",
+			"geometry": [{
+				"x": "43.6532",
+				"y": "79.3832",
+				"z": "79.3832"
+			}]
+		},
+		"addressCharacteristic": [{
+			"name": "SAID",
+			"value": "006461480"
+		}]
+	}],
+	"alternateAddressList": [{
+		"streetNumber": "129",
+		"streetNumberSuffix": "",
+		"streetNumberLast": "",
+		"streetNumberRangeType": "",
+		"streetName": "Finch",
+		"streetType": "ST",
+		"streetDirection": "E",
+		"postalcode": "M2J3T8",
+		"zipCode": "",
+		"city": "Toronto",
+		"provinceOrState": "ON",
+		"country": "CANADA",
+		"subAddressDetails": [{
+			"id": "string",
+			"href": "string",
+			"type": "string",
+			"name": "string",
+			"unitType": "string",
+			"unitNumber": "string",
+			"levelType": "string",
+			"levelNumber": "string",
+			"buildingName": "string",
+			"subAddressCharacteristic": [{
+				"name": "string",
+				"value": "string"
+			}]
+		}],
+		"geoLocationInfo": {
+			"id": "string",
+			"href": "string",
+			"name": "string",
+			"geometryType": "string",
+			"accuracy": "string",
+			"spatialRef": "string",
+			"geometry": [{
+				"x": "43.6532",
+				"y": "79.3832",
+				"z": "79.3832"
+			}]
+		},
+		"addressCharacteristic": [{
+			"name": "SAID",
+			"value": "006461480"
+		}]
+	},{
+		"streetNumber": "129",
+		"streetNumberSuffix": "",
+		"streetNumberLast": "",
+		"streetNumberRangeType": "",
+		"streetName": "Finch",
+		"streetType": "RD",
+		"streetDirection": "W",
+		"postalcode": "M3T4N8",
+		"zipCode": "",
+		"city": "Toronto",
+		"provinceOrState": "ON",
+		"country": "CANADA",
+		"subAddressDetails": [{
+			"id": "string",
+			"href": "string",
+			"type": "string",
+			"name": "string",
+			"unitType": "string",
+			"unitNumber": "string",
+			"levelType": "string",
+			"levelNumber": "string",
+			"buildingName": "string",
+			"subAddressCharacteristic": [{
+				"name": "string",
+				"value": "string"
+			}]
+		}],
+		"geoLocationInfo": {
+			"id": "string",
+			"href": "string",
+			"name": "string",
+			"geometryType": "string",
+			"accuracy": "string",
+			"spatialRef": "string",
+			"geometry": [{
+				"x": "43.6532",
+				"y": "79.3832",
+				"z": "79.3832"
+			}]
+		},
+		"addressCharacteristic": [{
+			"name": "SAID",
+			"value": "006461480"
+		}]
+	},{
+		"streetNumber": "129",
+		"streetNumberSuffix": "",
+		"streetNumberLast": "",
+		"streetNumberRangeType": "",
+		"streetName": "Finch",
+		"streetType": "ST",
+		"streetDirection": "S",
+		"postalcode": "M3T5N8",
+		"zipCode": "",
+		"city": "Toronto",
+		"provinceOrState": "ON",
+		"country": "CANADA",
+		"subAddressDetails": [{
+			"id": "string",
+			"href": "string",
+			"type": "string",
+			"name": "string",
+			"unitType": "string",
+			"unitNumber": "string",
+			"levelType": "string",
+			"levelNumber": "string",
+			"buildingName": "string",
+			"subAddressCharacteristic": [{
+				"name": "string",
+				"value": "string"
+			}]
+		}],
+		"geoLocationInfo": {
+			"id": "string",
+			"href": "string",
+			"name": "string",
+			"geometryType": "string",
+			"accuracy": "string",
+			"spatialRef": "string",
+			"geometry": [{
+				"x": "43.6532",
+				"y": "79.3832",
+				"z": "79.3832"
+			}]
+		},
+		"addressCharacteristic": [{
+			"name": "SAID",
+			"value": "006461480"
+		}]
+	}]
+}
