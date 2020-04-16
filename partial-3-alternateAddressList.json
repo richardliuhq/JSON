@@ -3,7 +3,7 @@
 	"href": "href",
 	"status": "partial",
 	"validationDate": "2020-04-14T18:44:52.824Z",
-	"validationResult": "success",
+	"validationResult": "partial",
 	"totalAddressCount": 200,
 	"totalAddressReturned": 1,
 	"addressList": [{
