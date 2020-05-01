@@ -1,0 +1,17 @@
+{
+   "validationResult": "ExactMatch",
+   "totalAddressCount": "1",
+   "totalAddressReturned":"1" ,
+   "addressList": [   {
+      "streetNumber": "129",
+      "streetName": "13TH",
+      "postalcode": "R6W1S2",
+      "city": "WINKLER",
+      "provinceOrState": "MB",
+      "country": "CA",
+      "addressCharacteristic": [      {
+         "name": "LPR",
+         "value": "MB01"
+      }]
+   }]
+}
