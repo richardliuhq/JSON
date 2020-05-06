@@ -1,0 +1,1867 @@
+{
+  "validationResult": "ExactMatch",
+  "totalAddressCount": 120,
+  "totalAddressReturned": 60,
+  "addressList": [
+    {
+      "streetNumber": "106",
+      "streetName": "13TH",
+      "streetType": "ST",
+      "postalcode": "R6W1S1",
+      "city": "WINKLER",
+      "provinceOrState": "MB",
+      "country": "CA",
+      "geoLocationInfo": {
+        "id": null,
+        "href": null,
+        "name": "ExactPlace",
+        "geometryType": "point",
+        "spatialRef": null,
+        "geometry": [
+          {
+            "x": "45.4720616",
+            "y": "-73.5399642"
+          }
+        ]
+      },
+      "addressCharacteristic": [
+        {
+          "name": "SAID",
+          "value": "006461480"
+        },
+        {
+          "name": "LPR",
+          "value": "MB01"
+        }
+      ]
+    },
+    {
+      "streetNumber": "106",
+      "streetName": "13TH",
+      "streetType": "ST",
+      "postalcode": "R6W1S1",
+      "city": "WINKLER",
+      "provinceOrState": "MB",
+      "country": "CA",
+      "geoLocationInfo": {
+        "id": null,
+        "href": null,
+        "name": "ExactPlace",
+        "geometryType": "point",
+        "spatialRef": null,
+        "geometry": [
+          {
+            "x": "45.4720616",
+            "y": "-73.5399642"
+          }
+        ]
+      },
+      "addressCharacteristic": [
+        {
+          "name": "SAID",
+          "value": "006461480"
+        },
+        {
+          "name": "LPR",
+          "value": "MB01"
+        }
+      ]
+    },
+    {
+      "streetNumber": "106",
+      "streetName": "13TH",
+      "streetType": "ST",
+      "postalcode": "R6W1S1",
+      "city": "WINKLER",
+      "provinceOrState": "MB",
+      "country": "CA",
+      "geoLocationInfo": {
+        "id": null,
+        "href": null,
+        "name": "ExactPlace",
+        "geometryType": "point",
+        "spatialRef": null,
+        "geometry": [
+          {
+            "x": "45.4720616",
+            "y": "-73.5399642"
+          }
+        ]
+      },
+      "addressCharacteristic": [
+        {
+          "name": "SAID",
+          "value": "006461480"
+        },
+        {
+          "name": "LPR",
+          "value": "MB01"
+        }
+      ]
+    },
+    {
+      "streetNumber": "106",
+      "streetName": "13TH",
+      "streetType": "ST",
+      "postalcode": "R6W1S1",
+      "city": "WINKLER",
+      "provinceOrState": "MB",
+      "country": "CA",
+      "geoLocationInfo": {
+        "id": null,
+        "href": null,
+        "name": "ExactPlace",
+        "geometryType": "point",
+        "spatialRef": null,
+        "geometry": [
+          {
+            "x": "45.4720616",
+            "y": "-73.5399642"
+          }
+        ]
+      },
+      "addressCharacteristic": [
+        {
+          "name": "SAID",
+          "value": "006461480"
+        },
+        {
+          "name": "LPR",
+          "value": "MB01"
+        }
+      ]
+    },
+    {
+      "streetNumber": "106",
+      "streetName": "13TH",
+      "streetType": "ST",
+      "postalcode": "R6W1S1",
+      "city": "WINKLER",
+      "provinceOrState": "MB",
+      "country": "CA",
+      "geoLocationInfo": {
+        "id": null,
+        "href": null,
+        "name": "ExactPlace",
+        "geometryType": "point",
+        "spatialRef": null,
+        "geometry": [
+          {
+            "x": "45.4720616",
+            "y": "-73.5399642"
+          }
+        ]
+      },
+      "addressCharacteristic": [
+        {
+          "name": "SAID",
+          "value": "006461480"
+        },
+        {
+          "name": "LPR",
+          "value": "MB01"
+        }
+      ]
+    },
+    {
+      "streetNumber": "106",
+      "streetName": "13TH",
+      "streetType": "ST",
+      "postalcode": "R6W1S1",
+      "city": "WINKLER",
+      "provinceOrState": "MB",
+      "country": "CA",
+      "geoLocationInfo": {
+        "id": null,
+        "href": null,
+        "name": "ExactPlace",
+        "geometryType": "point",
+        "spatialRef": null,
+        "geometry": [
+          {
+            "x": "45.4720616",
+            "y": "-73.5399642"
+          }
+        ]
+      },
+      "addressCharacteristic": [
+        {
+          "name": "SAID",
+          "value": "006461480"
+        },
+        {
+          "name": "LPR",
+          "value": "MB01"
+        }
+      ]
+    },
+    {
+      "streetNumber": "106",
+      "streetName": "13TH",
+      "streetType": "ST",
+      "postalcode": "R6W1S1",
+      "city": "WINKLER",
+      "provinceOrState": "MB",
+      "country": "CA",
+      "geoLocationInfo": {
+        "id": null,
+        "href": null,
+        "name": "ExactPlace",
+        "geometryType": "point",
+        "spatialRef": null,
+        "geometry": [
+          {
+            "x": "45.4720616",
+            "y": "-73.5399642"
+          }
+        ]
+      },
+      "addressCharacteristic": [
+        {
+          "name": "SAID",
+          "value": "006461480"
+        },
+        {
+          "name": "LPR",
+          "value": "MB01"
+        }
+      ]
+    },
+    {
+      "streetNumber": "106",
+      "streetName": "13TH",
+      "streetType": "ST",
+      "postalcode": "R6W1S1",
+      "city": "WINKLER",
+      "provinceOrState": "MB",
+      "country": "CA",
+      "geoLocationInfo": {
+        "id": null,
+        "href": null,
+        "name": "ExactPlace",
+        "geometryType": "point",
+        "spatialRef": null,
+        "geometry": [
+          {
+            "x": "45.4720616",
+            "y": "-73.5399642"
+          }
+        ]
+      },
+      "addressCharacteristic": [
+        {
+          "name": "SAID",
+          "value": "006461480"
+        },
+        {
+          "name": "LPR",
+          "value": "MB01"
+        }
+      ]
+    },
+    {
+      "streetNumber": "106",
+      "streetName": "13TH",
+      "streetType": "ST",
+      "postalcode": "R6W1S1",
+      "city": "WINKLER",
+      "provinceOrState": "MB",
+      "country": "CA",
+      "geoLocationInfo": {
+        "id": null,
+        "href": null,
+        "name": "ExactPlace",
+        "geometryType": "point",
+        "spatialRef": null,
+        "geometry": [
+          {
+            "x": "45.4720616",
+            "y": "-73.5399642"
+          }
+        ]
+      },
+      "addressCharacteristic": [
+        {
+          "name": "SAID",
+          "value": "006461480"
+        },
+        {
+          "name": "LPR",
+          "value": "MB01"
+        }
+      ]
+    },
+    {
+      "streetNumber": "106",
+      "streetName": "13TH",
+      "streetType": "ST",
+      "postalcode": "R6W1S1",
+      "city": "WINKLER",
+      "provinceOrState": "MB",
+      "country": "CA",
+      "geoLocationInfo": {
+        "id": null,
+        "href": null,
+        "name": "ExactPlace",
+        "geometryType": "point",
+        "spatialRef": null,
+        "geometry": [
+          {
+            "x": "45.4720616",
+            "y": "-73.5399642"
+          }
+        ]
+      },
+      "addressCharacteristic": [
+        {
+          "name": "SAID",
+          "value": "006461480"
+        },
+        {
+          "name": "LPR",
+          "value": "MB01"
+        }
+      ]
+    },
+    {
+      "streetNumber": "106",
+      "streetName": "13TH",
+      "streetType": "ST",
+      "postalcode": "R6W1S1",
+      "city": "WINKLER",
+      "provinceOrState": "MB",
+      "country": "CA",
+      "geoLocationInfo": {
+        "id": null,
+        "href": null,
+        "name": "ExactPlace",
+        "geometryType": "point",
+        "spatialRef": null,
+        "geometry": [
+          {
+            "x": "45.4720616",
+            "y": "-73.5399642"
+          }
+        ]
+      },
+      "addressCharacteristic": [
+        {
+          "name": "SAID",
+          "value": "006461480"
+        },
+        {
+          "name": "LPR",
+          "value": "MB01"
+        }
+      ]
+    },
+    {
+      "streetNumber": "106",
+      "streetName": "13TH",
+      "streetType": "ST",
+      "postalcode": "R6W1S1",
+      "city": "WINKLER",
+      "provinceOrState": "MB",
+      "country": "CA",
+      "geoLocationInfo": {
+        "id": null,
+        "href": null,
+        "name": "ExactPlace",
+        "geometryType": "point",
+        "spatialRef": null,
+        "geometry": [
+          {
+            "x": "45.4720616",
+            "y": "-73.5399642"
+          }
+        ]
+      },
+      "addressCharacteristic": [
+        {
+          "name": "SAID",
+          "value": "006461480"
+        },
+        {
+          "name": "LPR",
+          "value": "MB01"
+        }
+      ]
+    },
+    {
+      "streetNumber": "106",
+      "streetName": "13TH",
+      "streetType": "ST",
+      "postalcode": "R6W1S1",
+      "city": "WINKLER",
+      "provinceOrState": "MB",
+      "country": "CA",
+      "geoLocationInfo": {
+        "id": null,
+        "href": null,
+        "name": "ExactPlace",
+        "geometryType": "point",
+        "spatialRef": null,
+        "geometry": [
+          {
+            "x": "45.4720616",
+            "y": "-73.5399642"
+          }
+        ]
+      },
+      "addressCharacteristic": [
+        {
+          "name": "SAID",
+          "value": "006461480"
+        },
+        {
+          "name": "LPR",
+          "value": "MB01"
+        }
+      ]
+    },
+    {
+      "streetNumber": "106",
+      "streetName": "13TH",
+      "streetType": "ST",
+      "postalcode": "R6W1S1",
+      "city": "WINKLER",
+      "provinceOrState": "MB",
+      "country": "CA",
+      "geoLocationInfo": {
+        "id": null,
+        "href": null,
+        "name": "ExactPlace",
+        "geometryType": "point",
+        "spatialRef": null,
+        "geometry": [
+          {
+            "x": "45.4720616",
+            "y": "-73.5399642"
+          }
+        ]
+      },
+      "addressCharacteristic": [
+        {
+          "name": "SAID",
+          "value": "006461480"
+        },
+        {
+          "name": "LPR",
+          "value": "MB01"
+        }
+      ]
+    },
+    {
+      "streetNumber": "106",
+      "streetName": "13TH",
+      "streetType": "ST",
+      "postalcode": "R6W1S1",
+      "city": "WINKLER",
+      "provinceOrState": "MB",
+      "country": "CA",
+      "geoLocationInfo": {
+        "id": null,
+        "href": null,
+        "name": "ExactPlace",
+        "geometryType": "point",
+        "spatialRef": null,
+        "geometry": [
+          {
+            "x": "45.4720616",
+            "y": "-73.5399642"
+          }
+        ]
+      },
+      "addressCharacteristic": [
+        {
+          "name": "SAID",
+          "value": "006461480"
+        },
+        {
+          "name": "LPR",
+          "value": "MB01"
+        }
+      ]
+    },
+    {
+      "streetNumber": "106",
+      "streetName": "13TH",
+      "streetType": "ST",
+      "postalcode": "R6W1S1",
+      "city": "WINKLER",
+      "provinceOrState": "MB",
+      "country": "CA",
+      "geoLocationInfo": {
+        "id": null,
+        "href": null,
+        "name": "ExactPlace",
+        "geometryType": "point",
+        "spatialRef": null,
+        "geometry": [
+          {
+            "x": "45.4720616",
+            "y": "-73.5399642"
+          }
+        ]
+      },
+      "addressCharacteristic": [
+        {
+          "name": "SAID",
+          "value": "006461480"
+        },
+        {
+          "name": "LPR",
+          "value": "MB01"
+        }
+      ]
+    },
+    {
+      "streetNumber": "106",
+      "streetName": "13TH",
+      "streetType": "ST",
+      "postalcode": "R6W1S1",
+      "city": "WINKLER",
+      "provinceOrState": "MB",
+      "country": "CA",
+      "geoLocationInfo": {
+        "id": null,
+        "href": null,
+        "name": "ExactPlace",
+        "geometryType": "point",
+        "spatialRef": null,
+        "geometry": [
+          {
+            "x": "45.4720616",
+            "y": "-73.5399642"
+          }
+        ]
+      },
+      "addressCharacteristic": [
+        {
+          "name": "SAID",
+          "value": "006461480"
+        },
+        {
+          "name": "LPR",
+          "value": "MB01"
+        }
+      ]
+    },
+    {
+      "streetNumber": "106",
+      "streetName": "13TH",
+      "streetType": "ST",
+      "postalcode": "R6W1S1",
+      "city": "WINKLER",
+      "provinceOrState": "MB",
+      "country": "CA",
+      "geoLocationInfo": {
+        "id": null,
+        "href": null,
+        "name": "ExactPlace",
+        "geometryType": "point",
+        "spatialRef": null,
+        "geometry": [
+          {
+            "x": "45.4720616",
+            "y": "-73.5399642"
+          }
+        ]
+      },
+      "addressCharacteristic": [
+        {
+          "name": "SAID",
+          "value": "006461480"
+        },
+        {
+          "name": "LPR",
+          "value": "MB01"
+        }
+      ]
+    },
+    {
+      "streetNumber": "106",
+      "streetName": "13TH",
+      "streetType": "ST",
+      "postalcode": "R6W1S1",
+      "city": "WINKLER",
+      "provinceOrState": "MB",
+      "country": "CA",
+      "geoLocationInfo": {
+        "id": null,
+        "href": null,
+        "name": "ExactPlace",
+        "geometryType": "point",
+        "spatialRef": null,
+        "geometry": [
+          {
+            "x": "45.4720616",
+            "y": "-73.5399642"
+          }
+        ]
+      },
+      "addressCharacteristic": [
+        {
+          "name": "SAID",
+          "value": "006461480"
+        },
+        {
+          "name": "LPR",
+          "value": "MB01"
+        }
+      ]
+    },
+    {
+      "streetNumber": "106",
+      "streetName": "13TH",
+      "streetType": "ST",
+      "postalcode": "R6W1S1",
+      "city": "WINKLER",
+      "provinceOrState": "MB",
+      "country": "CA",
+      "geoLocationInfo": {
+        "id": null,
+        "href": null,
+        "name": "ExactPlace",
+        "geometryType": "point",
+        "spatialRef": null,
+        "geometry": [
+          {
+            "x": "45.4720616",
+            "y": "-73.5399642"
+          }
+        ]
+      },
+      "addressCharacteristic": [
+        {
+          "name": "SAID",
+          "value": "006461480"
+        },
+        {
+          "name": "LPR",
+          "value": "MB01"
+        }
+      ]
+    },
+    {
+      "streetNumber": "106",
+      "streetName": "13TH",
+      "streetType": "ST",
+      "postalcode": "R6W1S1",
+      "city": "WINKLER",
+      "provinceOrState": "MB",
+      "country": "CA",
+      "geoLocationInfo": {
+        "id": null,
+        "href": null,
+        "name": "ExactPlace",
+        "geometryType": "point",
+        "spatialRef": null,
+        "geometry": [
+          {
+            "x": "45.4720616",
+            "y": "-73.5399642"
+          }
+        ]
+      },
+      "addressCharacteristic": [
+        {
+          "name": "SAID",
+          "value": "006461480"
+        },
+        {
+          "name": "LPR",
+          "value": "MB01"
+        }
+      ]
+    },
+    {
+      "streetNumber": "106",
+      "streetName": "13TH",
+      "streetType": "ST",
+      "postalcode": "R6W1S1",
+      "city": "WINKLER",
+      "provinceOrState": "MB",
+      "country": "CA",
+      "geoLocationInfo": {
+        "id": null,
+        "href": null,
+        "name": "ExactPlace",
+        "geometryType": "point",
+        "spatialRef": null,
+        "geometry": [
+          {
+            "x": "45.4720616",
+            "y": "-73.5399642"
+          }
+        ]
+      },
+      "addressCharacteristic": [
+        {
+          "name": "SAID",
+          "value": "006461480"
+        },
+        {
+          "name": "LPR",
+          "value": "MB01"
+        }
+      ]
+    },
+    {
+      "streetNumber": "106",
+      "streetName": "13TH",
+      "streetType": "ST",
+      "postalcode": "R6W1S1",
+      "city": "WINKLER",
+      "provinceOrState": "MB",
+      "country": "CA",
+      "geoLocationInfo": {
+        "id": null,
+        "href": null,
+        "name": "ExactPlace",
+        "geometryType": "point",
+        "spatialRef": null,
+        "geometry": [
+          {
+            "x": "45.4720616",
+            "y": "-73.5399642"
+          }
+        ]
+      },
+      "addressCharacteristic": [
+        {
+          "name": "SAID",
+          "value": "006461480"
+        },
+        {
+          "name": "LPR",
+          "value": "MB01"
+        }
+      ]
+    },
+    {
+      "streetNumber": "106",
+      "streetName": "13TH",
+      "streetType": "ST",
+      "postalcode": "R6W1S1",
+      "city": "WINKLER",
+      "provinceOrState": "MB",
+      "country": "CA",
+      "geoLocationInfo": {
+        "id": null,
+        "href": null,
+        "name": "ExactPlace",
+        "geometryType": "point",
+        "spatialRef": null,
+        "geometry": [
+          {
+            "x": "45.4720616",
+            "y": "-73.5399642"
+          }
+        ]
+      },
+      "addressCharacteristic": [
+        {
+          "name": "SAID",
+          "value": "006461480"
+        },
+        {
+          "name": "LPR",
+          "value": "MB01"
+        }
+      ]
+    },
+    {
+      "streetNumber": "106",
+      "streetName": "13TH",
+      "streetType": "ST",
+      "postalcode": "R6W1S1",
+      "city": "WINKLER",
+      "provinceOrState": "MB",
+      "country": "CA",
+      "geoLocationInfo": {
+        "id": null,
+        "href": null,
+        "name": "ExactPlace",
+        "geometryType": "point",
+        "spatialRef": null,
+        "geometry": [
+          {
+            "x": "45.4720616",
+            "y": "-73.5399642"
+          }
+        ]
+      },
+      "addressCharacteristic": [
+        {
+          "name": "SAID",
+          "value": "006461480"
+        },
+        {
+          "name": "LPR",
+          "value": "MB01"
+        }
+      ]
+    },
+    {
+      "streetNumber": "106",
+      "streetName": "13TH",
+      "streetType": "ST",
+      "postalcode": "R6W1S1",
+      "city": "WINKLER",
+      "provinceOrState": "MB",
+      "country": "CA",
+      "geoLocationInfo": {
+        "id": null,
+        "href": null,
+        "name": "ExactPlace",
+        "geometryType": "point",
+        "spatialRef": null,
+        "geometry": [
+          {
+            "x": "45.4720616",
+            "y": "-73.5399642"
+          }
+        ]
+      },
+      "addressCharacteristic": [
+        {
+          "name": "SAID",
+          "value": "006461480"
+        },
+        {
+          "name": "LPR",
+          "value": "MB01"
+        }
+      ]
+    },
+    {
+      "streetNumber": "106",
+      "streetName": "13TH",
+      "streetType": "ST",
+      "postalcode": "R6W1S1",
+      "city": "WINKLER",
+      "provinceOrState": "MB",
+      "country": "CA",
+      "geoLocationInfo": {
+        "id": null,
+        "href": null,
+        "name": "ExactPlace",
+        "geometryType": "point",
+        "spatialRef": null,
+        "geometry": [
+          {
+            "x": "45.4720616",
+            "y": "-73.5399642"
+          }
+        ]
+      },
+      "addressCharacteristic": [
+        {
+          "name": "SAID",
+          "value": "006461480"
+        },
+        {
+          "name": "LPR",
+          "value": "MB01"
+        }
+      ]
+    },
+    {
+      "streetNumber": "106",
+      "streetName": "13TH",
+      "streetType": "ST",
+      "postalcode": "R6W1S1",
+      "city": "WINKLER",
+      "provinceOrState": "MB",
+      "country": "CA",
+      "geoLocationInfo": {
+        "id": null,
+        "href": null,
+        "name": "ExactPlace",
+        "geometryType": "point",
+        "spatialRef": null,
+        "geometry": [
+          {
+            "x": "45.4720616",
+            "y": "-73.5399642"
+          }
+        ]
+      },
+      "addressCharacteristic": [
+        {
+          "name": "SAID",
+          "value": "006461480"
+        },
+        {
+          "name": "LPR",
+          "value": "MB01"
+        }
+      ]
+    },
+    {
+      "streetNumber": "106",
+      "streetName": "13TH",
+      "streetType": "ST",
+      "postalcode": "R6W1S1",
+      "city": "WINKLER",
+      "provinceOrState": "MB",
+      "country": "CA",
+      "geoLocationInfo": {
+        "id": null,
+        "href": null,
+        "name": "ExactPlace",
+        "geometryType": "point",
+        "spatialRef": null,
+        "geometry": [
+          {
+            "x": "45.4720616",
+            "y": "-73.5399642"
+          }
+        ]
+      },
+      "addressCharacteristic": [
+        {
+          "name": "SAID",
+          "value": "006461480"
+        },
+        {
+          "name": "LPR",
+          "value": "MB01"
+        }
+      ]
+    },
+    {
+      "streetNumber": "106",
+      "streetName": "13TH",
+      "streetType": "ST",
+      "postalcode": "R6W1S1",
+      "city": "WINKLER",
+      "provinceOrState": "MB",
+      "country": "CA",
+      "geoLocationInfo": {
+        "id": null,
+        "href": null,
+        "name": "ExactPlace",
+        "geometryType": "point",
+        "spatialRef": null,
+        "geometry": [
+          {
+            "x": "45.4720616",
+            "y": "-73.5399642"
+          }
+        ]
+      },
+      "addressCharacteristic": [
+        {
+          "name": "SAID",
+          "value": "006461480"
+        },
+        {
+          "name": "LPR",
+          "value": "MB01"
+        }
+      ]
+    },
+    {
+      "streetNumber": "106",
+      "streetName": "13TH",
+      "streetType": "ST",
+      "postalcode": "R6W1S1",
+      "city": "WINKLER",
+      "provinceOrState": "MB",
+      "country": "CA",
+      "geoLocationInfo": {
+        "id": null,
+        "href": null,
+        "name": "ExactPlace",
+        "geometryType": "point",
+        "spatialRef": null,
+        "geometry": [
+          {
+            "x": "45.4720616",
+            "y": "-73.5399642"
+          }
+        ]
+      },
+      "addressCharacteristic": [
+        {
+          "name": "SAID",
+          "value": "006461480"
+        },
+        {
+          "name": "LPR",
+          "value": "MB01"
+        }
+      ]
+    },
+    {
+      "streetNumber": "106",
+      "streetName": "13TH",
+      "streetType": "ST",
+      "postalcode": "R6W1S1",
+      "city": "WINKLER",
+      "provinceOrState": "MB",
+      "country": "CA",
+      "geoLocationInfo": {
+        "id": null,
+        "href": null,
+        "name": "ExactPlace",
+        "geometryType": "point",
+        "spatialRef": null,
+        "geometry": [
+          {
+            "x": "45.4720616",
+            "y": "-73.5399642"
+          }
+        ]
+      },
+      "addressCharacteristic": [
+        {
+          "name": "SAID",
+          "value": "006461480"
+        },
+        {
+          "name": "LPR",
+          "value": "MB01"
+        }
+      ]
+    },
+    {
+      "streetNumber": "106",
+      "streetName": "13TH",
+      "streetType": "ST",
+      "postalcode": "R6W1S1",
+      "city": "WINKLER",
+      "provinceOrState": "MB",
+      "country": "CA",
+      "geoLocationInfo": {
+        "id": null,
+        "href": null,
+        "name": "ExactPlace",
+        "geometryType": "point",
+        "spatialRef": null,
+        "geometry": [
+          {
+            "x": "45.4720616",
+            "y": "-73.5399642"
+          }
+        ]
+      },
+      "addressCharacteristic": [
+        {
+          "name": "SAID",
+          "value": "006461480"
+        },
+        {
+          "name": "LPR",
+          "value": "MB01"
+        }
+      ]
+    },
+    {
+      "streetNumber": "106",
+      "streetName": "13TH",
+      "streetType": "ST",
+      "postalcode": "R6W1S1",
+      "city": "WINKLER",
+      "provinceOrState": "MB",
+      "country": "CA",
+      "geoLocationInfo": {
+        "id": null,
+        "href": null,
+        "name": "ExactPlace",
+        "geometryType": "point",
+        "spatialRef": null,
+        "geometry": [
+          {
+            "x": "45.4720616",
+            "y": "-73.5399642"
+          }
+        ]
+      },
+      "addressCharacteristic": [
+        {
+          "name": "SAID",
+          "value": "006461480"
+        },
+        {
+          "name": "LPR",
+          "value": "MB01"
+        }
+      ]
+    },
+    {
+      "streetNumber": "106",
+      "streetName": "13TH",
+      "streetType": "ST",
+      "postalcode": "R6W1S1",
+      "city": "WINKLER",
+      "provinceOrState": "MB",
+      "country": "CA",
+      "geoLocationInfo": {
+        "id": null,
+        "href": null,
+        "name": "ExactPlace",
+        "geometryType": "point",
+        "spatialRef": null,
+        "geometry": [
+          {
+            "x": "45.4720616",
+            "y": "-73.5399642"
+          }
+        ]
+      },
+      "addressCharacteristic": [
+        {
+          "name": "SAID",
+          "value": "006461480"
+        },
+        {
+          "name": "LPR",
+          "value": "MB01"
+        }
+      ]
+    },
+    {
+      "streetNumber": "106",
+      "streetName": "13TH",
+      "streetType": "ST",
+      "postalcode": "R6W1S1",
+      "city": "WINKLER",
+      "provinceOrState": "MB",
+      "country": "CA",
+      "geoLocationInfo": {
+        "id": null,
+        "href": null,
+        "name": "ExactPlace",
+        "geometryType": "point",
+        "spatialRef": null,
+        "geometry": [
+          {
+            "x": "45.4720616",
+            "y": "-73.5399642"
+          }
+        ]
+      },
+      "addressCharacteristic": [
+        {
+          "name": "SAID",
+          "value": "006461480"
+        },
+        {
+          "name": "LPR",
+          "value": "MB01"
+        }
+      ]
+    },
+    {
+      "streetNumber": "106",
+      "streetName": "13TH",
+      "streetType": "ST",
+      "postalcode": "R6W1S1",
+      "city": "WINKLER",
+      "provinceOrState": "MB",
+      "country": "CA",
+      "geoLocationInfo": {
+        "id": null,
+        "href": null,
+        "name": "ExactPlace",
+        "geometryType": "point",
+        "spatialRef": null,
+        "geometry": [
+          {
+            "x": "45.4720616",
+            "y": "-73.5399642"
+          }
+        ]
+      },
+      "addressCharacteristic": [
+        {
+          "name": "SAID",
+          "value": "006461480"
+        },
+        {
+          "name": "LPR",
+          "value": "MB01"
+        }
+      ]
+    },
+    {
+      "streetNumber": "106",
+      "streetName": "13TH",
+      "streetType": "ST",
+      "postalcode": "R6W1S1",
+      "city": "WINKLER",
+      "provinceOrState": "MB",
+      "country": "CA",
+      "geoLocationInfo": {
+        "id": null,
+        "href": null,
+        "name": "ExactPlace",
+        "geometryType": "point",
+        "spatialRef": null,
+        "geometry": [
+          {
+            "x": "45.4720616",
+            "y": "-73.5399642"
+          }
+        ]
+      },
+      "addressCharacteristic": [
+        {
+          "name": "SAID",
+          "value": "006461480"
+        },
+        {
+          "name": "LPR",
+          "value": "MB01"
+        }
+      ]
+    },
+    {
+      "streetNumber": "106",
+      "streetName": "13TH",
+      "streetType": "ST",
+      "postalcode": "R6W1S1",
+      "city": "WINKLER",
+      "provinceOrState": "MB",
+      "country": "CA",
+      "geoLocationInfo": {
+        "id": null,
+        "href": null,
+        "name": "ExactPlace",
+        "geometryType": "point",
+        "spatialRef": null,
+        "geometry": [
+          {
+            "x": "45.4720616",
+            "y": "-73.5399642"
+          }
+        ]
+      },
+      "addressCharacteristic": [
+        {
+          "name": "SAID",
+          "value": "006461480"
+        },
+        {
+          "name": "LPR",
+          "value": "MB01"
+        }
+      ]
+    },
+    {
+      "streetNumber": "106",
+      "streetName": "13TH",
+      "streetType": "ST",
+      "postalcode": "R6W1S1",
+      "city": "WINKLER",
+      "provinceOrState": "MB",
+      "country": "CA",
+      "geoLocationInfo": {
+        "id": null,
+        "href": null,
+        "name": "ExactPlace",
+        "geometryType": "point",
+        "spatialRef": null,
+        "geometry": [
+          {
+            "x": "45.4720616",
+            "y": "-73.5399642"
+          }
+        ]
+      },
+      "addressCharacteristic": [
+        {
+          "name": "SAID",
+          "value": "006461480"
+        },
+        {
+          "name": "LPR",
+          "value": "MB01"
+        }
+      ]
+    },
+    {
+      "streetNumber": "106",
+      "streetName": "13TH",
+      "streetType": "ST",
+      "postalcode": "R6W1S1",
+      "city": "WINKLER",
+      "provinceOrState": "MB",
+      "country": "CA",
+      "geoLocationInfo": {
+        "id": null,
+        "href": null,
+        "name": "ExactPlace",
+        "geometryType": "point",
+        "spatialRef": null,
+        "geometry": [
+          {
+            "x": "45.4720616",
+            "y": "-73.5399642"
+          }
+        ]
+      },
+      "addressCharacteristic": [
+        {
+          "name": "SAID",
+          "value": "006461480"
+        },
+        {
+          "name": "LPR",
+          "value": "MB01"
+        }
+      ]
+    },
+    {
+      "streetNumber": "106",
+      "streetName": "13TH",
+      "streetType": "ST",
+      "postalcode": "R6W1S1",
+      "city": "WINKLER",
+      "provinceOrState": "MB",
+      "country": "CA",
+      "geoLocationInfo": {
+        "id": null,
+        "href": null,
+        "name": "ExactPlace",
+        "geometryType": "point",
+        "spatialRef": null,
+        "geometry": [
+          {
+            "x": "45.4720616",
+            "y": "-73.5399642"
+          }
+        ]
+      },
+      "addressCharacteristic": [
+        {
+          "name": "SAID",
+          "value": "006461480"
+        },
+        {
+          "name": "LPR",
+          "value": "MB01"
+        }
+      ]
+    },
+    {
+      "streetNumber": "106",
+      "streetName": "13TH",
+      "streetType": "ST",
+      "postalcode": "R6W1S1",
+      "city": "WINKLER",
+      "provinceOrState": "MB",
+      "country": "CA",
+      "geoLocationInfo": {
+        "id": null,
+        "href": null,
+        "name": "ExactPlace",
+        "geometryType": "point",
+        "spatialRef": null,
+        "geometry": [
+          {
+            "x": "45.4720616",
+            "y": "-73.5399642"
+          }
+        ]
+      },
+      "addressCharacteristic": [
+        {
+          "name": "SAID",
+          "value": "006461480"
+        },
+        {
+          "name": "LPR",
+          "value": "MB01"
+        }
+      ]
+    },
+    {
+      "streetNumber": "106",
+      "streetName": "13TH",
+      "streetType": "ST",
+      "postalcode": "R6W1S1",
+      "city": "WINKLER",
+      "provinceOrState": "MB",
+      "country": "CA",
+      "geoLocationInfo": {
+        "id": null,
+        "href": null,
+        "name": "ExactPlace",
+        "geometryType": "point",
+        "spatialRef": null,
+        "geometry": [
+          {
+            "x": "45.4720616",
+            "y": "-73.5399642"
+          }
+        ]
+      },
+      "addressCharacteristic": [
+        {
+          "name": "SAID",
+          "value": "006461480"
+        },
+        {
+          "name": "LPR",
+          "value": "MB01"
+        }
+      ]
+    },
+    {
+      "streetNumber": "106",
+      "streetName": "13TH",
+      "streetType": "ST",
+      "postalcode": "R6W1S1",
+      "city": "WINKLER",
+      "provinceOrState": "MB",
+      "country": "CA",
+      "geoLocationInfo": {
+        "id": null,
+        "href": null,
+        "name": "ExactPlace",
+        "geometryType": "point",
+        "spatialRef": null,
+        "geometry": [
+          {
+            "x": "45.4720616",
+            "y": "-73.5399642"
+          }
+        ]
+      },
+      "addressCharacteristic": [
+        {
+          "name": "SAID",
+          "value": "006461480"
+        },
+        {
+          "name": "LPR",
+          "value": "MB01"
+        }
+      ]
+    },
+    {
+      "streetNumber": "106",
+      "streetName": "13TH",
+      "streetType": "ST",
+      "postalcode": "R6W1S1",
+      "city": "WINKLER",
+      "provinceOrState": "MB",
+      "country": "CA",
+      "geoLocationInfo": {
+        "id": null,
+        "href": null,
+        "name": "ExactPlace",
+        "geometryType": "point",
+        "spatialRef": null,
+        "geometry": [
+          {
+            "x": "45.4720616",
+            "y": "-73.5399642"
+          }
+        ]
+      },
+      "addressCharacteristic": [
+        {
+          "name": "SAID",
+          "value": "006461480"
+        },
+        {
+          "name": "LPR",
+          "value": "MB01"
+        }
+      ]
+    },
+    {
+      "streetNumber": "106",
+      "streetName": "13TH",
+      "streetType": "ST",
+      "postalcode": "R6W1S1",
+      "city": "WINKLER",
+      "provinceOrState": "MB",
+      "country": "CA",
+      "geoLocationInfo": {
+        "id": null,
+        "href": null,
+        "name": "ExactPlace",
+        "geometryType": "point",
+        "spatialRef": null,
+        "geometry": [
+          {
+            "x": "45.4720616",
+            "y": "-73.5399642"
+          }
+        ]
+      },
+      "addressCharacteristic": [
+        {
+          "name": "SAID",
+          "value": "006461480"
+        },
+        {
+          "name": "LPR",
+          "value": "MB01"
+        }
+      ]
+    },
+    {
+      "streetNumber": "106",
+      "streetName": "13TH",
+      "streetType": "ST",
+      "postalcode": "R6W1S1",
+      "city": "WINKLER",
+      "provinceOrState": "MB",
+      "country": "CA",
+      "geoLocationInfo": {
+        "id": null,
+        "href": null,
+        "name": "ExactPlace",
+        "geometryType": "point",
+        "spatialRef": null,
+        "geometry": [
+          {
+            "x": "45.4720616",
+            "y": "-73.5399642"
+          }
+        ]
+      },
+      "addressCharacteristic": [
+        {
+          "name": "SAID",
+          "value": "006461480"
+        },
+        {
+          "name": "LPR",
+          "value": "MB01"
+        }
+      ]
+    },
+    {
+      "streetNumber": "106",
+      "streetName": "13TH",
+      "streetType": "ST",
+      "postalcode": "R6W1S1",
+      "city": "WINKLER",
+      "provinceOrState": "MB",
+      "country": "CA",
+      "geoLocationInfo": {
+        "id": null,
+        "href": null,
+        "name": "ExactPlace",
+        "geometryType": "point",
+        "spatialRef": null,
+        "geometry": [
+          {
+            "x": "45.4720616",
+            "y": "-73.5399642"
+          }
+        ]
+      },
+      "addressCharacteristic": [
+        {
+          "name": "SAID",
+          "value": "006461480"
+        },
+        {
+          "name": "LPR",
+          "value": "MB01"
+        }
+      ]
+    },
+    {
+      "streetNumber": "106",
+      "streetName": "13TH",
+      "streetType": "ST",
+      "postalcode": "R6W1S1",
+      "city": "WINKLER",
+      "provinceOrState": "MB",
+      "country": "CA",
+      "geoLocationInfo": {
+        "id": null,
+        "href": null,
+        "name": "ExactPlace",
+        "geometryType": "point",
+        "spatialRef": null,
+        "geometry": [
+          {
+            "x": "45.4720616",
+            "y": "-73.5399642"
+          }
+        ]
+      },
+      "addressCharacteristic": [
+        {
+          "name": "SAID",
+          "value": "006461480"
+        },
+        {
+          "name": "LPR",
+          "value": "MB01"
+        }
+      ]
+    },
+    {
+      "streetNumber": "106",
+      "streetName": "13TH",
+      "streetType": "ST",
+      "postalcode": "R6W1S1",
+      "city": "WINKLER",
+      "provinceOrState": "MB",
+      "country": "CA",
+      "geoLocationInfo": {
+        "id": null,
+        "href": null,
+        "name": "ExactPlace",
+        "geometryType": "point",
+        "spatialRef": null,
+        "geometry": [
+          {
+            "x": "45.4720616",
+            "y": "-73.5399642"
+          }
+        ]
+      },
+      "addressCharacteristic": [
+        {
+          "name": "SAID",
+          "value": "006461480"
+        },
+        {
+          "name": "LPR",
+          "value": "MB01"
+        }
+      ]
+    },
+    {
+      "streetNumber": "106",
+      "streetName": "13TH",
+      "streetType": "ST",
+      "postalcode": "R6W1S1",
+      "city": "WINKLER",
+      "provinceOrState": "MB",
+      "country": "CA",
+      "geoLocationInfo": {
+        "id": null,
+        "href": null,
+        "name": "ExactPlace",
+        "geometryType": "point",
+        "spatialRef": null,
+        "geometry": [
+          {
+            "x": "45.4720616",
+            "y": "-73.5399642"
+          }
+        ]
+      },
+      "addressCharacteristic": [
+        {
+          "name": "SAID",
+          "value": "006461480"
+        },
+        {
+          "name": "LPR",
+          "value": "MB01"
+        }
+      ]
+    },
+    {
+      "streetNumber": "106",
+      "streetName": "13TH",
+      "streetType": "ST",
+      "postalcode": "R6W1S1",
+      "city": "WINKLER",
+      "provinceOrState": "MB",
+      "country": "CA",
+      "geoLocationInfo": {
+        "id": null,
+        "href": null,
+        "name": "ExactPlace",
+        "geometryType": "point",
+        "spatialRef": null,
+        "geometry": [
+          {
+            "x": "45.4720616",
+            "y": "-73.5399642"
+          }
+        ]
+      },
+      "addressCharacteristic": [
+        {
+          "name": "SAID",
+          "value": "006461480"
+        },
+        {
+          "name": "LPR",
+          "value": "MB01"
+        }
+      ]
+    },
+    {
+      "streetNumber": "106",
+      "streetName": "13TH",
+      "streetType": "ST",
+      "postalcode": "R6W1S1",
+      "city": "WINKLER",
+      "provinceOrState": "MB",
+      "country": "CA",
+      "geoLocationInfo": {
+        "id": null,
+        "href": null,
+        "name": "ExactPlace",
+        "geometryType": "point",
+        "spatialRef": null,
+        "geometry": [
+          {
+            "x": "45.4720616",
+            "y": "-73.5399642"
+          }
+        ]
+      },
+      "addressCharacteristic": [
+        {
+          "name": "SAID",
+          "value": "006461480"
+        },
+        {
+          "name": "LPR",
+          "value": "MB01"
+        }
+      ]
+    },
+    {
+      "streetNumber": "106",
+      "streetName": "13TH",
+      "streetType": "ST",
+      "postalcode": "R6W1S1",
+      "city": "WINKLER",
+      "provinceOrState": "MB",
+      "country": "CA",
+      "geoLocationInfo": {
+        "id": null,
+        "href": null,
+        "name": "ExactPlace",
+        "geometryType": "point",
+        "spatialRef": null,
+        "geometry": [
+          {
+            "x": "45.4720616",
+            "y": "-73.5399642"
+          }
+        ]
+      },
+      "addressCharacteristic": [
+        {
+          "name": "SAID",
+          "value": "006461480"
+        },
+        {
+          "name": "LPR",
+          "value": "MB01"
+        }
+      ]
+    },
+    {
+      "streetNumber": "106",
+      "streetName": "13TH",
+      "streetType": "ST",
+      "postalcode": "R6W1S1",
+      "city": "WINKLER",
+      "provinceOrState": "MB",
+      "country": "CA",
+      "geoLocationInfo": {
+        "id": null,
+        "href": null,
+        "name": "ExactPlace",
+        "geometryType": "point",
+        "spatialRef": null,
+        "geometry": [
+          {
+            "x": "45.4720616",
+            "y": "-73.5399642"
+          }
+        ]
+      },
+      "addressCharacteristic": [
+        {
+          "name": "SAID",
+          "value": "006461480"
+        },
+        {
+          "name": "LPR",
+          "value": "MB01"
+        }
+      ]
+    },
+    {
+      "streetNumber": "106",
+      "streetName": "13TH",
+      "streetType": "ST",
+      "postalcode": "R6W1S1",
+      "city": "WINKLER",
+      "provinceOrState": "MB",
+      "country": "CA",
+      "geoLocationInfo": {
+        "id": null,
+        "href": null,
+        "name": "ExactPlace",
+        "geometryType": "point",
+        "spatialRef": null,
+        "geometry": [
+          {
+            "x": "45.4720616",
+            "y": "-73.5399642"
+          }
+        ]
+      },
+      "addressCharacteristic": [
+        {
+          "name": "SAID",
+          "value": "006461480"
+        },
+        {
+          "name": "LPR",
+          "value": "MB01"
+        }
+      ]
+    },
+    {
+      "streetNumber": "106",
+      "streetName": "13TH",
+      "streetType": "ST",
+      "postalcode": "R6W1S1",
+      "city": "WINKLER",
+      "provinceOrState": "MB",
+      "country": "CA",
+      "geoLocationInfo": {
+        "id": null,
+        "href": null,
+        "name": "ExactPlace",
+        "geometryType": "point",
+        "spatialRef": null,
+        "geometry": [
+          {
+            "x": "45.4720616",
+            "y": "-73.5399642"
+          }
+        ]
+      },
+      "addressCharacteristic": [
+        {
+          "name": "SAID",
+          "value": "006461480"
+        },
+        {
+          "name": "LPR",
+          "value": "MB01"
+        }
+      ]
+    }
+  ],
+  "paging": {
+    "href-nextPage": "",
+    "href-prevPage": "https://raw.githubusercontent.com/richardliuhq/JSON/master/SamplePagingNext.json"
+  }
+}
