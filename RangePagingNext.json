@@ -1,0 +1,511 @@
+{
+   "validationResult": "RangeMatch",
+   "totalAddressCount": 120,
+   "totalAddressReturned":50 ,
+   "addressList":    [
+            {
+         "streetNumber": "104",
+         "streetNumberLast": "158",
+         "streetNumberRangeType": "EVEN",
+         "streetName": "13TH West",
+         "city": "WINKLER",
+         "provinceOrState": "MB",
+         "country": "CA"
+         
+      },
+            {
+         "streetNumber": "129",
+         "streetNumberLast": "177",
+         "streetNumberRangeType": "ODD",
+         "streetName": "13TH West",
+         "city": "WINKLER",
+         "provinceOrState": "MB",
+         "country": "CA"
+       
+      },
+            {
+         "streetNumber": "168",
+         "streetNumberLast": "168",
+         "streetNumberRangeType": "EVEN",
+         "streetName": "13TH West",
+         "city": "WINKLER",
+         "provinceOrState": "MB",
+         "country": "CA"
+        
+      },
+            {
+         "streetNumber": "180",
+         "streetNumberLast": "246",
+         "streetNumberRangeType": "EVEN",
+         "streetName": "13TH West",
+         "city": "WINKLER",
+         "provinceOrState": "MB",
+         "country": "CA"
+        
+      },
+            {
+         "streetNumber": "189",
+         "streetNumberLast": "285",
+         "streetNumberRangeType": "ODD",
+         "streetName": "13TH West",
+         "city": "WINKLER",
+         "provinceOrState": "MB",
+         "country": "CA"
+        
+      },
+            {
+         "streetNumber": "254",
+         "streetNumberLast": "294",
+         "streetNumberRangeType": "EVEN",
+         "streetName": "13TH West",
+         "city": "WINKLER",
+         "provinceOrState": "MB",
+         "country": "CA"
+         
+      },
+            {
+         "streetNumber": "104",
+         "streetNumberLast": "158",
+         "streetNumberRangeType": "EVEN",
+         "streetName": "13TH West",
+         "city": "WINKLER",
+         "provinceOrState": "MB",
+         "country": "CA"
+         
+      },
+            {
+         "streetNumber": "129",
+         "streetNumberLast": "177",
+         "streetNumberRangeType": "ODD",
+         "streetName": "13TH West",
+         "city": "WINKLER",
+         "provinceOrState": "MB",
+         "country": "CA"
+       
+      },
+            {
+         "streetNumber": "168",
+         "streetNumberLast": "168",
+         "streetNumberRangeType": "EVEN",
+         "streetName": "13TH West",
+         "city": "WINKLER",
+         "provinceOrState": "MB",
+         "country": "CA"
+        
+      },
+            {
+         "streetNumber": "180",
+         "streetNumberLast": "246",
+         "streetNumberRangeType": "EVEN",
+         "streetName": "13TH West",
+         "city": "WINKLER",
+         "provinceOrState": "MB",
+         "country": "CA"
+        
+      },
+            {
+         "streetNumber": "189",
+         "streetNumberLast": "285",
+         "streetNumberRangeType": "ODD",
+         "streetName": "13TH West",
+         "city": "WINKLER",
+         "provinceOrState": "MB",
+         "country": "CA"
+        
+      },
+            {
+         "streetNumber": "254",
+         "streetNumberLast": "294",
+         "streetNumberRangeType": "EVEN",
+         "streetName": "13TH West",
+         "city": "WINKLER",
+         "provinceOrState": "MB",
+         "country": "CA"
+         
+      },
+            {
+         "streetNumber": "104",
+         "streetNumberLast": "158",
+         "streetNumberRangeType": "EVEN",
+         "streetName": "13TH West",
+         "city": "WINKLER",
+         "provinceOrState": "MB",
+         "country": "CA"
+         
+      },
+            {
+         "streetNumber": "129",
+         "streetNumberLast": "177",
+         "streetNumberRangeType": "ODD",
+         "streetName": "13TH West",
+         "city": "WINKLER",
+         "provinceOrState": "MB",
+         "country": "CA"
+       
+      },
+            {
+         "streetNumber": "168",
+         "streetNumberLast": "168",
+         "streetNumberRangeType": "EVEN",
+         "streetName": "13TH West",
+         "city": "WINKLER",
+         "provinceOrState": "MB",
+         "country": "CA"
+        
+      },
+            {
+         "streetNumber": "180",
+         "streetNumberLast": "246",
+         "streetNumberRangeType": "EVEN",
+         "streetName": "13TH West",
+         "city": "WINKLER",
+         "provinceOrState": "MB",
+         "country": "CA"
+        
+      },
+            {
+         "streetNumber": "189",
+         "streetNumberLast": "285",
+         "streetNumberRangeType": "ODD",
+         "streetName": "13TH West",
+         "city": "WINKLER",
+         "provinceOrState": "MB",
+         "country": "CA"
+        
+      },
+            {
+         "streetNumber": "254",
+         "streetNumberLast": "294",
+         "streetNumberRangeType": "EVEN",
+         "streetName": "13TH West",
+         "city": "WINKLER",
+         "provinceOrState": "MB",
+         "country": "CA"
+         
+      },
+            {
+         "streetNumber": "104",
+         "streetNumberLast": "158",
+         "streetNumberRangeType": "EVEN",
+         "streetName": "13TH West",
+         "city": "WINKLER",
+         "provinceOrState": "MB",
+         "country": "CA"
+         
+      },
+            {
+         "streetNumber": "129",
+         "streetNumberLast": "177",
+         "streetNumberRangeType": "ODD",
+         "streetName": "13TH West",
+         "city": "WINKLER",
+         "provinceOrState": "MB",
+         "country": "CA"
+       
+      },
+            {
+         "streetNumber": "168",
+         "streetNumberLast": "168",
+         "streetNumberRangeType": "EVEN",
+         "streetName": "13TH West",
+         "city": "WINKLER",
+         "provinceOrState": "MB",
+         "country": "CA"
+        
+      },
+            {
+         "streetNumber": "180",
+         "streetNumberLast": "246",
+         "streetNumberRangeType": "EVEN",
+         "streetName": "13TH West",
+         "city": "WINKLER",
+         "provinceOrState": "MB",
+         "country": "CA"
+        
+      },
+            {
+         "streetNumber": "189",
+         "streetNumberLast": "285",
+         "streetNumberRangeType": "ODD",
+         "streetName": "13TH West",
+         "city": "WINKLER",
+         "provinceOrState": "MB",
+         "country": "CA"
+        
+      },
+            {
+         "streetNumber": "254",
+         "streetNumberLast": "294",
+         "streetNumberRangeType": "EVEN",
+         "streetName": "13TH West",
+         "city": "WINKLER",
+         "provinceOrState": "MB",
+         "country": "CA"
+         
+      },
+            {
+         "streetNumber": "104",
+         "streetNumberLast": "158",
+         "streetNumberRangeType": "EVEN",
+         "streetName": "13TH West",
+         "city": "WINKLER",
+         "provinceOrState": "MB",
+         "country": "CA"
+         
+      },
+            {
+         "streetNumber": "129",
+         "streetNumberLast": "177",
+         "streetNumberRangeType": "ODD",
+         "streetName": "13TH West",
+         "city": "WINKLER",
+         "provinceOrState": "MB",
+         "country": "CA"
+       
+      },
+            {
+         "streetNumber": "168",
+         "streetNumberLast": "168",
+         "streetNumberRangeType": "EVEN",
+         "streetName": "13TH West",
+         "city": "WINKLER",
+         "provinceOrState": "MB",
+         "country": "CA"
+        
+      },
+            {
+         "streetNumber": "180",
+         "streetNumberLast": "246",
+         "streetNumberRangeType": "EVEN",
+         "streetName": "13TH West",
+         "city": "WINKLER",
+         "provinceOrState": "MB",
+         "country": "CA"
+        
+      },
+            {
+         "streetNumber": "189",
+         "streetNumberLast": "285",
+         "streetNumberRangeType": "ODD",
+         "streetName": "13TH West",
+         "city": "WINKLER",
+         "provinceOrState": "MB",
+         "country": "CA"
+        
+      },
+            {
+         "streetNumber": "254",
+         "streetNumberLast": "294",
+         "streetNumberRangeType": "EVEN",
+         "streetName": "13TH West",
+         "city": "WINKLER",
+         "provinceOrState": "MB",
+         "country": "CA"
+         
+      },
+            {
+         "streetNumber": "104",
+         "streetNumberLast": "158",
+         "streetNumberRangeType": "EVEN",
+         "streetName": "13TH West",
+         "city": "WINKLER",
+         "provinceOrState": "MB",
+         "country": "CA"
+         
+      },
+            {
+         "streetNumber": "129",
+         "streetNumberLast": "177",
+         "streetNumberRangeType": "ODD",
+         "streetName": "13TH West",
+         "city": "WINKLER",
+         "provinceOrState": "MB",
+         "country": "CA"
+       
+      },
+            {
+         "streetNumber": "168",
+         "streetNumberLast": "168",
+         "streetNumberRangeType": "EVEN",
+         "streetName": "13TH West",
+         "city": "WINKLER",
+         "provinceOrState": "MB",
+         "country": "CA"
+        
+      },
+            {
+         "streetNumber": "180",
+         "streetNumberLast": "246",
+         "streetNumberRangeType": "EVEN",
+         "streetName": "13TH West",
+         "city": "WINKLER",
+         "provinceOrState": "MB",
+         "country": "CA"
+        
+      },
+            {
+         "streetNumber": "189",
+         "streetNumberLast": "285",
+         "streetNumberRangeType": "ODD",
+         "streetName": "13TH West",
+         "city": "WINKLER",
+         "provinceOrState": "MB",
+         "country": "CA"
+        
+      },
+            {
+         "streetNumber": "254",
+         "streetNumberLast": "294",
+         "streetNumberRangeType": "EVEN",
+         "streetName": "13TH West",
+         "city": "WINKLER",
+         "provinceOrState": "MB",
+         "country": "CA"
+         
+      },
+            {
+         "streetNumber": "189",
+         "streetNumberLast": "285",
+         "streetNumberRangeType": "ODD",
+         "streetName": "13TH West",
+         "city": "WINKLER",
+         "provinceOrState": "MB",
+         "country": "CA"
+        
+      },
+            {
+         "streetNumber": "254",
+         "streetNumberLast": "294",
+         "streetNumberRangeType": "EVEN",
+         "streetName": "13TH West",
+         "city": "WINKLER",
+         "provinceOrState": "MB",
+         "country": "CA"
+         
+      },
+           {
+         "streetNumber": "189",
+         "streetNumberLast": "285",
+         "streetNumberRangeType": "ODD",
+         "streetName": "13TH West",
+         "city": "WINKLER",
+         "provinceOrState": "MB",
+         "country": "CA"
+        
+      },
+            {
+         "streetNumber": "254",
+         "streetNumberLast": "294",
+         "streetNumberRangeType": "EVEN",
+         "streetName": "13TH West",
+         "city": "WINKLER",
+         "provinceOrState": "MB",
+         "country": "CA"
+         
+      },
+           {
+         "streetNumber": "189",
+         "streetNumberLast": "285",
+         "streetNumberRangeType": "ODD",
+         "streetName": "13TH West",
+         "city": "WINKLER",
+         "provinceOrState": "MB",
+         "country": "CA"
+        
+      },
+            {
+         "streetNumber": "254",
+         "streetNumberLast": "294",
+         "streetNumberRangeType": "EVEN",
+         "streetName": "13TH West",
+         "city": "WINKLER",
+         "provinceOrState": "MB",
+         "country": "CA"
+         
+      },
+           {
+         "streetNumber": "189",
+         "streetNumberLast": "285",
+         "streetNumberRangeType": "ODD",
+         "streetName": "13TH West",
+         "city": "WINKLER",
+         "provinceOrState": "MB",
+         "country": "CA"
+        
+      },
+            {
+         "streetNumber": "254",
+         "streetNumberLast": "294",
+         "streetNumberRangeType": "EVEN",
+         "streetName": "13TH West",
+         "city": "WINKLER",
+         "provinceOrState": "MB",
+         "country": "CA"
+         
+      },
+           {
+         "streetNumber": "189",
+         "streetNumberLast": "285",
+         "streetNumberRangeType": "ODD",
+         "streetName": "13TH West",
+         "city": "WINKLER",
+         "provinceOrState": "MB",
+         "country": "CA"
+        
+      },
+            {
+         "streetNumber": "254",
+         "streetNumberLast": "294",
+         "streetNumberRangeType": "EVEN",
+         "streetName": "13TH West",
+         "city": "WINKLER",
+         "provinceOrState": "MB",
+         "country": "CA"
+         
+      },
+           {
+         "streetNumber": "189",
+         "streetNumberLast": "285",
+         "streetNumberRangeType": "ODD",
+         "streetName": "13TH West",
+         "city": "WINKLER",
+         "provinceOrState": "MB",
+         "country": "CA"
+        
+      },
+            {
+         "streetNumber": "254",
+         "streetNumberLast": "294",
+         "streetNumberRangeType": "EVEN",
+         "streetName": "13TH West",
+         "city": "WINKLER",
+         "provinceOrState": "MB",
+         "country": "CA"
+         
+      },
+           {
+         "streetNumber": "189",
+         "streetNumberLast": "285",
+         "streetNumberRangeType": "ODD",
+         "streetName": "13TH West",
+         "city": "WINKLER",
+         "provinceOrState": "MB",
+         "country": "CA"
+        
+      },
+            {
+         "streetNumber": "254",
+         "streetNumberLast": "294",
+         "streetNumberRangeType": "EVEN",
+         "streetName": "13TH West",
+         "city": "WINKLER",
+         "provinceOrState": "MB",
+         "country": "CA"
+         
+      }
+   ],
+ "paging": {
+    "href-nextPage": "https://raw.githubusercontent.com/richardliuhq/JSON/master/RangePagingNext.json",
+    "href-prevPage": "https://raw.githubusercontent.com/richardliuhq/JSON/master/RangePagingPrev.json"
+  }
+}
